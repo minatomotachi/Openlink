@@ -1,5 +1,4 @@
 # Openlink
-雲書苑教育
 
 # 🔗 OpenAPI 連接器
 
